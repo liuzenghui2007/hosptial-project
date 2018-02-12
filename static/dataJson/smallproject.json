@@ -1,31 +1,31 @@
 {
 	"tableData": [{
-	           
+
 	           "style": "检查费",
-	           "name": "头疼",
+	           "name": "头痛",
 	           "relate":"",
 	           "price":"120",
 	           "department":"治疗室",
 	           "usestate":"true"
 	         }, {
 	           "style": "检查费",
-	           "name": "肚子疼",
+	           "name": "胃痛",
 	           "relate":"",
-	           "price":"1,200",
+	           "price":"50",
 	           "department":"治疗室",
 	           "usestate":"true"
 	         }, {
 	          "style": "检查费",
-	           "name": "头疼",
+	           "name": "咽喉炎",
 	           "relate":"",
-	           "price":"1,200",
+	           "price":"50",
 	           "department":"治疗室",
 	           "usestate":"true"
 	         }, {
 	          "style": "检查费",
-	           "name": "头疼",
+	           "name": "发烧",
 	           "relate":"",
-	           "price":"1,200",
+	           "price":"30",
 	           "department":"治疗室",
 	           "usestate":"true"
 	         }]

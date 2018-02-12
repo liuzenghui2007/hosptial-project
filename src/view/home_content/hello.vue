@@ -25,7 +25,7 @@
               <span v-if="item.text !== '暂无排班'">{{ item.time_start}}~{{ item.time_end}}&nbsp;&nbsp;{{ item.text}}</span>
             </p>
           </div>
-          
+
       </div>
 
       <div class="echart">
@@ -65,7 +65,7 @@
       float: left;
       width: 30%;
       background: #fff;
-    }    
+    }
     .smallhome .todayArrange .title{
       line-height: 40px;
       background-color: #eef1f6;
@@ -127,7 +127,7 @@
     }
     .smallhome .news p{
       line-height: 40px;
-      background-color: #eef1f6; 
+      background-color: #eef1f6;
     }
 </style>
  <script>
@@ -206,7 +206,7 @@
             series: [{
               type: 'bar',
               barWidth: '60%',
-              data: [50, 32, 100, 300, 190, 58, 350]
+              data: [155, 166, 100, 280, 190, 158, 320]
             }]
           })
         }
