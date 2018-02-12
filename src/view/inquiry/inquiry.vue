@@ -9,9 +9,9 @@
         <el-col :span="6">
           <div class="grid-content bg-purple first-nav">
             <span>当前有1人等候</span>
-            
+
             <router-link to="/home/Noinquiry"><span class="color"><i class="fa fa-retweet"></i>切换就诊人 </span></router-link>
-           
+
           </div>
         </el-col>
 
@@ -100,7 +100,7 @@
                     <el-button @click="editCancel()">取消</el-button>
                   </div>
               </el-dialog>
-            </div>    
+            </div>
 
             <div class="in-con in-conThree">
               <div class="in-past">
@@ -138,10 +138,10 @@
       return {
         value6: '',
         info:{
-          name:'李春华',
+          name:'张丹',
           sex:'女',
-          age:40,
-          tel:'13012345678',
+          age:34,
+          tel:'13591598688',
           remark:'无'
         },
         infodata:{
@@ -160,8 +160,7 @@
           systolic:''
         },
         diseaseData:[
-          {disname:'急性坏疽性阑尾炎伴穿孔',disdate:'2017-04-25',distime:'11:55:50'},
-          {disname:'副伤寒',disdate:'2017-04-12',distime:'10:00:00'}
+          {disname:'副伤寒',disdate:'2017-04-11',distime:'10:00:00'}
         ]
       }
     },
@@ -185,7 +184,7 @@
           that.infodata = that.editinfo;
           that.dialogEditVisible = false;
         }).catch(() => {
-      
+
         });
       },
       //编辑界面的重置按钮
