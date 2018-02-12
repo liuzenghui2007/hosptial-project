@@ -1,7 +1,7 @@
 {
     "tableData": [{
-               "account_type":"黄金会员",
-               "username":"小红",
+               "account_type":"普通会员",
+               "username":"张丹",
                "account":456256,
                "buy_package":"儿童保健套餐",
                "date":"2016-12-23",
@@ -10,12 +10,12 @@
                "accumulative_integral":16,
                "avaliable_integral":2,
                "avaliable_date":"5",
-               "share":"晓敏，小红",
-               "money":null,
+               "share":"张晓琪",
+               "money":0,
                "deadline":"2017-9-1"
              }, {
                "account_type":"普通会员",
-               "username":"浩明",
+               "username":"陈浩明",
                "account":456246,
                "buy_package":"孕检套餐",
                "date":"2016-12-23",
@@ -24,12 +24,12 @@
                "accumulative_integral":2,
                "avaliable_integral":2,
                "avaliable_date":"53",
-               "share":"晓敏，小红",
-               "money":null,
+               "share":"陈丽丽",
+               "money":0,
                "deadline":"2017-9-1"
              }, {
                "account_type":"黄金会员",
-               "username":"偶记",
+               "username":"王伟",
                "account":45656,
                "buy_package":"儿童保健套餐",
                "date":"2016-12-23",
@@ -38,12 +38,12 @@
                "accumulative_integral":356,
                "avaliable_integral":62,
                "avaliable_date":"11",
-               "share":"晓敏，小红",
+               "share":"王晓明",
                "money":85,
                "deadline":"2017-9-1"
              }, {
                "account_type":"普通会员",
-               "username":"费红",
+               "username":"张宏昌",
                "buy_package":"儿童保健套餐",
                "account":45625,
                "date":"2016-12-23",
@@ -52,12 +52,12 @@
                "accumulative_integral":26,
                "avaliable_integral":5,
                "avaliable_date":"54",
-               "share":"小红",
+               "share":"",
                "money":56,
                "deadline":"2017-8-1"
              }, {
                "account_type":"黄金会员",
-               "username":"小都",
+               "username":"张明",
                "account":45656,
                "buy_package":"儿童保健套餐",
                "date":"2016-12-23",
@@ -66,12 +66,12 @@
                "accumulative_integral":356,
                "avaliable_integral":62,
                "avaliable_date":"11",
-               "share":"晓敏，小红",
+               "share":"张琳琳",
                "money":85,
                "deadline":"2017-9-1"
              }, {
                "account_type":"黄金会员",
-               "username":"美妹",
+               "username":"管新华",
                "account":45656,
                "buy_package":"儿童保健套餐",
                "date":"2016-12-23",
@@ -80,7 +80,7 @@
                "accumulative_integral":356,
                "avaliable_integral":62,
                "avaliable_date":"11",
-               "share":"晓敏，小红",
+               "share":"",
                "money":85,
                "deadline":"2017-9-1"
              }]
